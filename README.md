@@ -8,6 +8,7 @@ Welcome to my GitHub profile! I'm a self Learner, with a passion for the best so
 <br>
 
 # Profile Information 
+
 <div>
   <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://komarev.com/ghpvc/?username=Akash-Munda&color=blueviolet" alt="Profile Views"></a>
   <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
@@ -22,21 +23,23 @@ Welcome to my GitHub profile! I'm a self Learner, with a passion for the best so
   <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/stars/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
   <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/forks/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
   <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/watchers/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
-  <a href="https://github.com/nishuR31/nishuR31"><img src="https://img.shields.io/github/last-commit/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/last-commit/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
   <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/actions/workflow/status/Akash-Munda/Akash-Munda/your-workflow-file.yml?branch=main&color=black&style=flat&logo=github&logoColor=black"></a>
 
 </div> 
 
 <br>
+
 ## 🔧 Technologies & Tools
 
-- **Languages**: C++, JAVASCRIPT,PYTHON
+- **Languages**: C++, JAVASCRIPT,PYTHON, R
 - **Frameworks**: REACT
 - **Tools**: GIT, VCSODE ,FIGMA
 
 ## 🌱 Currently Learning
 
 - DSA(Data Structure and Alogorithm)
+- Web Dev
 
 
 
@@ -47,7 +50,7 @@ Welcome to my GitHub profile! I'm a self Learner, with a passion for the best so
   <a href="# <h1>My Trophies:</h1>
 
 <div style="display: inline-flex; flex-wrap: wrap; justify-content: center; align-items: center; gap: 20px;">
-  <a href="https://github.com/nishuR31/nishuR31" target="_blank" rel="https://github.com/Akash-Munda/Akash-Munda"><img src="https://github-profile-trophy.vercel.app/?username=Akash-Munda&theme=algolia&no-bg=true&no-frame=true" alt="Akash" /></a>
+  <a href="https://github.com/Akash-Munda/Akash-Munda" target="_blank" rel="https://github.com/Akash-Munda/Akash-Munda"><img src="https://github-profile-trophy.vercel.app/?username=Akash-Munda&theme=algolia&no-bg=true&no-frame=true" alt="Akash" /></a>
 </div>
 <br>
 <br>
