@@ -1,7 +1,8 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2800&pause=1000&color=2BAAE8&center=true&vCenter=true&width=800&lines=👋+Hi%2C+I'm+Akash+Kumar+Munda;🚀+Aspiring+Full-Stack+Developer;💡+Problem+Solver+in+Training;🌱+Currently+Mastering+DSA" alt="Animated Header">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2BAAE8&width=600&lines=Hi%2C+I'm+Akash+Kumar+Munda;Aspiring+Full-Stack+Developer;Problem+Solver+in+Training;Currently+Mastering+DSA" alt="Typing SVG">
 </div>
+
+
 
 
 
