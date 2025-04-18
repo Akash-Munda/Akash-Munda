@@ -4,7 +4,25 @@
 
 
 
+# Profile Information 
 
+<div>
+  <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://komarev.com/ghpvc/?username=Akash-Munda&color=blueviolet" alt="Profile Views"></a>
+  <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/badge/-Follow%20Me%20-blueviolet" alt="Follow Me"></a>
+</div>
+<br>
+
+# <h1> Github Contributions:</h1>
+
+<div align="center">
+  <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/contributors/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/Akash-Munda?tab=followers"><img src="https://img.shields.io/github/followers/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/stars/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/forks/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/watchers/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
+  <a href="https://github.com/Akash-Munda/Akash-Munda"><img src="https://img.shields.io/github/last-commit/Akash-Munda/Akash-Munda?color=black&style=flat&logo=github&logoColor=black"></a>
+
+</div> 
 
 ---
 
