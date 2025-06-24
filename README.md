@@ -65,7 +65,7 @@
 * My expertise extends to **HTML and CSS**, where I work on crafting responsive and visually appealing web pages.
 * I actively use **Termux** for a variety of tasks, including running **Kali Linux and managing development environments** or **practicing programming languages** on mobile.
 * All of my projects are available at my [Repository Tab](https://github.com/Akash-Munda?tab=repositories), where you can explore my coding journey.
-* How to reach me: [nishangithub@gmail.com](mailto:nishangithub@gmail.com). I'm always open to collaborations and discussions about tech!
+* How to reach me: [akashkumarmunda21@gmail.com](mailto:akashkumarmunda21@gmail.com). I'm always open to collaborations and discussions about tech!
 
 <br>
 <br>
@@ -73,10 +73,10 @@
 ### <h2>Get in Touch</h2>
 I’m always excited to connect with fellow developers, share insights, and learn from the experiences of others. Whether you have questions, want to discuss a project, or just want to chat about tech, feel free to reach out!
 <br>
-You can email me at [nishangithub@gmail.com](mailto:nishangithub@gmail.com).  I’m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
+You can email me at [akashkumarmunda21@gmail.com](mailto:akashkumarmunda21@gmail.com).  I’m looking forward to engaging with the developer community and exchanging ideas with fellow developers and learn from their experiences.
 <br>
 <br>
-  [![Gmail](https://img.shields.io/badge/EMAIL-8A2BE2?logo=gmail)](mailto:nishangithub@gmail.com)
+  [![Gmail](https://img.shields.io/badge/EMAIL-8A2BE2?logo=gmail)](mailto:akashkumarmunda21@gmail.com)
   [![Linkedin](https://img.shields.io/badge/-LinkedIn-230077B5?logoColor=white&color=black)](https://linkedin.com/in/https://www.linkedin.com/in/nishan-r-96147027a/)
   [![Github](https://img.shields.io/badge/GITHUB-181717?logo=github)](https://github.com/Akash-Munda)
   [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black)]( https://leetcode.com/u/nishanr_19/)
