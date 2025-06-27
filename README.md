@@ -86,8 +86,8 @@ I'm a passionate self-taught developer who's building cool stuff one commit at a
 ## 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/akash-kumar-munda-56a12a275)
-- 📬 Email: `your-email@example.com`
-- 🌐 Portfolio: (coming soon...)
+- 📬 Email: `forexternaluseonly07.com`
+- 🌐 Portfolio: ``
 
 ---
 
