@@ -68,4 +68,59 @@ All of my projects are available at my [Repository Tab](https://github.com/Akash
 
 Feel free to reach out if you want to collaborate or just chat!
 
+<h1 align="center">Hey there, I'm Akash 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=440&lines=Backend+Dev+%7C+Node.js+%7C+Express;Lifelong+Learner+%F0%9F%93%9A;Coffee+%E2%98%95+and+Code+%F0%9F%92%BB;Let's+Build+Something+Cool!+%F0%9F%A4%AA" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🔧 Backend Developer, Node.js enthusiast  
+- 💼 Currently learning advanced deployment, system design & scaling  
+- ☕ Runs on chai and console logs  
+- 🎯 Always building, breaking & fixing (in that order)
+
+---
+
+### 🚀 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akash-Munda&show_icons=true&theme=radical" alt="Akash's GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Akash-Munda&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+---
+
+### 🌍 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+---
+
+### 🧠 Fun Fact
+
+> I write code to **make bugs**, then I debug to **find peace** 😅  
+> PS: If it works, don’t touch it... unless it's past 2 AM 😈
+
+---
+
 
