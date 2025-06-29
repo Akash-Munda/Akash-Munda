@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Akash</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=580&lines=FullStack+Developer+%7C+MERN+Stack;Chai+%E2%98%95+Fueled+Backend+Ninja;Code.+Debug.+Repeat.+%F0%9F%92%BB;Let's+Build+Something+Cool+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=680&lines=FullStack+Developer+%7C+MERN+Stack;Chai+%E2%98%95+Fueled+Backend+Ninja;Code.+Debug.+Repeat.+%F0%9F%92%BB;Let's+Build+Something+Cool+Together!" alt="Typing SVG" />
 </p>
 
 ---
