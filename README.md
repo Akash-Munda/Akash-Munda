@@ -15,9 +15,9 @@ I'm a passionate self-taught developer who's building cool stuff one commit at a
 ### 👨‍💻 About Me
 
 - 🔧 Backend Developer, focused on Node.js & Express
-- 📦 Working with MongoDB, REST APIs, and full-stack apps
+- 📦 Working with MongoDB, APIs, and full-stack apps
 - 📚 Currently learning **system design**, **DevOps basics**, and **DSA**
-- ☕ Fueled by chai and late-night debugging
+-  late-night debugging
 - 💡 Motto: *"Break it. Fix it. Learn it. Repeat."*
 
 ---
