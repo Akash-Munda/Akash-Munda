@@ -37,7 +37,7 @@ I'm a passionate self-taught developer who's building cool stuff one commit at a
 
 ### 🧰 Languages & Tools
 
-- 💻 **Languages**: JavaScript, C++, Python, R  
+- 💻 **Languages**: JavaScript, C++, Python, 
 - ⚙️ **Frameworks**: React, Express  
 - 🛠️ **Tools**: Git, VS Code, Figma, Postman  
 
